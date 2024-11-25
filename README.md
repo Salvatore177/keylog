@@ -6,3 +6,6 @@ Questo software è stato sviluppato per scopi didattici e di sicurezza informati
 
 # Library
 pip install pynput pycryptodome keyboard
+
+# Usage
+
