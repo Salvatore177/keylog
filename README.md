@@ -9,3 +9,4 @@ pip install pynput pycryptodome keyboard
 
 # Usage
 
+Crittografare il proprio indirizzo ip in AES e sostituirlo nella linea 25 la porta del server in ascolto 8080
